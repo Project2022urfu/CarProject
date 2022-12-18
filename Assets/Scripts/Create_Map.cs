@@ -32,7 +32,7 @@ public class Create_Map : MonoBehaviour
             cell = Instantiate(z2, q.transform);
             if (first)
             {
-                cell.transform.localPosition = new Vector3(x + 14, y, 0);
+                cell.transform.localPosition = new Vector3(x + 10, y, 0);
                 first = false;
             }
             else
@@ -47,7 +47,7 @@ public class Create_Map : MonoBehaviour
             cell = Instantiate(z3, q.transform);
             if (first)
             {
-                cell.transform.localPosition = new Vector3(x + 14, y, 0);
+                cell.transform.localPosition = new Vector3(x + 10, y, 0);
                 first = false;
             }
             else
@@ -62,7 +62,7 @@ public class Create_Map : MonoBehaviour
             cell = Instantiate(z4, q.transform);
             if (first)
             {
-                cell.transform.localPosition = new Vector3(x + 14, y, 0);
+                cell.transform.localPosition = new Vector3(x + 10, y, 0);
                 first = false;
             }
             else
@@ -77,7 +77,7 @@ public class Create_Map : MonoBehaviour
             cell = Instantiate(z5, q.transform);
             if (first)
             {
-                cell.transform.localPosition = new Vector3(x + 14, y, 0);
+                cell.transform.localPosition = new Vector3(x + 10, y, 0);
                 first = false;
             }
             else
@@ -92,7 +92,7 @@ public class Create_Map : MonoBehaviour
             cell = Instantiate(z6, q.transform);
             if (first)
             {
-                cell.transform.localPosition = new Vector3(x + 14, y, 0);
+                cell.transform.localPosition = new Vector3(x + 10, y, 0);
                 first = false;
             }
             else
@@ -107,7 +107,7 @@ public class Create_Map : MonoBehaviour
             cell = Instantiate(z7, q.transform);
             if (first)
             {
-                cell.transform.localPosition = new Vector3(x + 14, y, 0);
+                cell.transform.localPosition = new Vector3(x + 10, y, 0);
                 first = false;
             }
             else
@@ -122,7 +122,7 @@ public class Create_Map : MonoBehaviour
             cell = Instantiate(z8, q.transform);
             if (first)
             {
-                cell.transform.localPosition = new Vector3(x + 14, y, 0);
+                cell.transform.localPosition = new Vector3(x + 10, y, 0);
                 first = false;
             }
             else
@@ -137,7 +137,7 @@ public class Create_Map : MonoBehaviour
             cell = Instantiate(z9, q.transform);
             if (first)
             {
-                cell.transform.localPosition = new Vector3(x + 14, y, 0);
+                cell.transform.localPosition = new Vector3(x + 10, y, 0);
                 first = false;
             }
             else
@@ -152,7 +152,7 @@ public class Create_Map : MonoBehaviour
             cell = Instantiate(z10, q.transform);
             if (first)
             {
-                cell.transform.localPosition = new Vector3(x + 14, y, 0);
+                cell.transform.localPosition = new Vector3(x + 10, y, 0);
                 first = false;
             }
             else
