@@ -34,6 +34,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> remotes/origin/Igor
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -138,7 +142,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
 =======
+>>>>>>> remotes/origin/Igor
+=======
+>>>>>>> remotes/origin/main
 >>>>>>> remotes/origin/Igor
   m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -368,9 +376,16 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Name: SceneView
 =======
   m_Name: 
+>>>>>>> remotes/origin/Igor
+=======
+  m_Name: 
+=======
+  m_Name: SceneView
+>>>>>>> remotes/origin/main
 >>>>>>> remotes/origin/Igor
   m_EditorClassIdentifier: 
   m_Children: []
@@ -379,6 +394,20 @@ MonoBehaviour:
     x: 1172.8
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    width: 363.19995
+    height: 730.8
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &12
+=======
+>>>>>>> remotes/origin/Igor
     width: 882.4
     height: 428
   m_MinSize: {x: 200, y: 200}
@@ -727,6 +756,7 @@ MonoBehaviour:
     m_CurrentSortingName: TransformSorting
   m_WindowGUID: 4c969a2b90040154d917609493e03593
 --- !u!114 &16
+<<<<<<< HEAD
 =======
     width: 363.19995
     height: 730.8
@@ -738,6 +768,9 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &12
+>>>>>>> remotes/origin/Igor
+=======
+>>>>>>> remotes/origin/main
 >>>>>>> remotes/origin/Igor
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -860,9 +893,16 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       snapOffset: {x: -197.59998, y: -105.600006}
 =======
       snapOffset: {x: 0, y: 0}
+>>>>>>> remotes/origin/Igor
+=======
+      snapOffset: {x: 0, y: 0}
+=======
+      snapOffset: {x: -197.59998, y: -105.600006}
+>>>>>>> remotes/origin/main
 >>>>>>> remotes/origin/Igor
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
@@ -1034,6 +1074,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -2.7282927, y: 1.1120884, z: 0.03607194}
     speed: 2
     m_Value: {x: -2.7282927, y: 1.1120884, z: 0.03607194}
@@ -1041,6 +1082,16 @@ MonoBehaviour:
     m_Target: {x: 71.511986, y: 26.739481, z: 5520.1777}
     speed: 2
     m_Value: {x: 71.511986, y: 26.739481, z: 5520.1777}
+>>>>>>> remotes/origin/Igor
+=======
+    m_Target: {x: 71.511986, y: 26.739481, z: 5520.1777}
+    speed: 2
+    m_Value: {x: 71.511986, y: 26.739481, z: 5520.1777}
+=======
+    m_Target: {x: -2.7282927, y: 1.1120884, z: 0.03607194}
+    speed: 2
+    m_Value: {x: -2.7282927, y: 1.1120884, z: 0.03607194}
+>>>>>>> remotes/origin/main
 >>>>>>> remotes/origin/Igor
   m_RenderMode: 0
   m_CameraMode:
@@ -1092,6 +1143,7 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 6.3928404
     speed: 2
     m_Value: 6.3928404
@@ -1099,6 +1151,16 @@ MonoBehaviour:
     m_Target: 64.919044
     speed: 2
     m_Value: 64.919044
+>>>>>>> remotes/origin/Igor
+=======
+    m_Target: 64.919044
+    speed: 2
+    m_Value: 64.919044
+=======
+    m_Target: 6.3928404
+    speed: 2
+    m_Value: 6.3928404
+>>>>>>> remotes/origin/main
 >>>>>>> remotes/origin/Igor
   m_Ortho:
     m_Target: 1
@@ -1125,8 +1187,11 @@ MonoBehaviour:
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &17
 =======
+=======
+>>>>>>> remotes/origin/Igor
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1424,6 +1489,12 @@ MonoBehaviour:
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
 --- !u!114 &16
+<<<<<<< HEAD
+>>>>>>> remotes/origin/Igor
+=======
+=======
+--- !u!114 &17
+>>>>>>> remotes/origin/main
 >>>>>>> remotes/origin/Igor
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1446,6 +1517,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 501.6
     width: 1171.8
     height: 273.8
@@ -1453,6 +1525,16 @@ MonoBehaviour:
     y: 506.4
     width: 1171.8
     height: 277
+>>>>>>> remotes/origin/Igor
+=======
+    y: 506.4
+    width: 1171.8
+    height: 277
+=======
+    y: 501.6
+    width: 1171.8
+    height: 273.8
+>>>>>>> remotes/origin/main
 >>>>>>> remotes/origin/Igor
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
