@@ -15,6 +15,7 @@ public class Create_Map : MonoBehaviour
     public GameObject z9;
     public GameObject z10;
     public bool first = true;
+    private int wall = 1;
     void Start()
     {
         int exit = 0;
@@ -23,11 +24,12 @@ public class Create_Map : MonoBehaviour
 
     public void Generate(GameObject q, int ex)
     {
+
         GameObject cell;
         float x = q.transform.localPosition.x;
         float y = q.transform.localPosition.y;
         int rand = Random.Range(2, 11);
-        if (rand == 2 && ex <= 4)
+        if (rand == 2 && ex <= wall)
         {
             cell = Instantiate(z2, q.transform);
             if (first)
@@ -42,7 +44,7 @@ public class Create_Map : MonoBehaviour
             ex++;
             Generate(cell, ex);
         }
-        else if (rand == 3 && ex <= 4)
+        else if (rand == 3 && ex <= wall)
         {
             cell = Instantiate(z3, q.transform);
             if (first)
@@ -57,7 +59,7 @@ public class Create_Map : MonoBehaviour
             ex++;
             Generate(cell, ex);
         }
-        else if (rand == 4 && ex <= 4)
+        else if (rand == 4 && ex <= wall)
         {
             cell = Instantiate(z4, q.transform);
             if (first)
@@ -72,7 +74,7 @@ public class Create_Map : MonoBehaviour
             ex++;
             Generate(cell, ex);
         }
-        else if (rand == 5 && ex <= 4)
+        else if (rand == 5 && ex <= wall)
         {
             cell = Instantiate(z5, q.transform);
             if (first)
@@ -87,7 +89,7 @@ public class Create_Map : MonoBehaviour
             ex++;
             Generate(cell, ex);
         }
-        else if (rand == 6 && ex <= 4)
+        else if (rand == 6 && ex <= wall)
         {
             cell = Instantiate(z6, q.transform);
             if (first)
@@ -102,7 +104,7 @@ public class Create_Map : MonoBehaviour
             ex++;
             Generate(cell, ex);
         }
-        else if (rand == 7 && ex <= 4)
+        else if (rand == 7 && ex <= wall)
         {
             cell = Instantiate(z7, q.transform);
             if (first)
@@ -117,7 +119,7 @@ public class Create_Map : MonoBehaviour
             ex++;
             Generate(cell, ex);
         }
-        else if (rand == 8 && ex <= 4)
+        else if (rand == 8 && ex <= wall)
         {
             cell = Instantiate(z8, q.transform);
             if (first)
@@ -132,7 +134,7 @@ public class Create_Map : MonoBehaviour
             ex++;
             Generate(cell, ex);
         }
-        else if (rand == 9 && ex <= 4)
+        else if (rand == 9 && ex <= wall)
         {
             cell = Instantiate(z9, q.transform);
             if (first)
@@ -147,7 +149,7 @@ public class Create_Map : MonoBehaviour
             ex++;
             Generate(cell, ex);
         }
-        else if (rand == 10 && ex <= 4)
+        else if (rand == 10 && ex <= wall)
         {
             cell = Instantiate(z10, q.transform);
             if (first)
